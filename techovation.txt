@@ -1,0 +1,3 @@
+Adam (Adaptive Moment Estimation) is an optimization algorithm used in deep learning for stochastic gradient descent (SGD) optimization. It is an extension of the stochastic gradient descent with momentum (SGDM) algorithm and is known for its ability to converge faster and more effectively than other optimization algorithms.
+
+preprocess_input may subtract the mean RGB values of the dataset from each pixel of the input image, and divide the result by the standard deviation of the RGB values of the dataset.
